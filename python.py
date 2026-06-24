@@ -1,0 +1,21 @@
+print("hello world")
+print("I am Magizhan")
+# print("Print is a output function")
+print(23434 * 234234)
+print(2 + 3 * 4)
+a=10
+b=324
+print(a+b*a/b*2*a)
+a=input('Enter your name:')
+print('my name is:' ,a)
+b=input('Where do you live?')
+print('I live in:' ,b)
+c=input('How old are you?')
+print('I am:' ,c,'years old')
+d=input('What type is your laptop?')
+print('I have a:' ,d)
+e=input('Do you Know how to code python? Say yes or no')
+if e.lower() == 'yes':
+     print('That is great! Keep coding!')
+else: print('imagine. You dont know how to code python')
+print('I know how to code python:' ,e)
